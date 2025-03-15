@@ -1,14 +1,26 @@
-<h1>Hi, I'm Jitanna!
+<h1>Hi, I'm Jitanna!👋
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 🔧 Skills & Technologies
+- **Languages**: Python, Bash, PowerShell, SQL
+- **Tools**: Git, Docker, AWS, Linux, Networking
+- **Cloud**: AWS, Azure
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jitannab/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jitannab/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jitannab/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jitannab/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jitannab/azure-network-protocols)
+## 📚 Course Careers Programs
+- **Course**: [IT Support Specialist](https://coursecareers.com/)  
+  - **Skills Learned**: Network management, System administration, IT troubleshooting, Security fundamentals, and more.
+  - **Certification**: [Link to certificate or badge if available]
+
+---
+
+## 📝 Featured Repositories
+- [Python Automation Scripts](https://github.com/yourusername/python-automation-scripts): A collection of useful Python automation scripts.
+- [AWS Infrastructure Templates](https://github.com/yourusername/aws-infrastructure-templates): CloudFormation templates for setting up AWS resources.
+- [Personal Website](https://github.com/yourusername/personal-website): My personal website where you can learn more about my work and projects.
+
+## 📣 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yourname)
+
+
 
 <h2>🤳Connect with me:</h2>www.linkedin.com/in/jitanna-brown
 
