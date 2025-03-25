@@ -19,9 +19,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jitannab/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jitannab/post-install-config)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jitannab/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jitannab/azure-network-protocols)
 
 
 ## 📣 Let's Connect! 🤳</h2>www.linkedin.com/in/jitanna-brown
